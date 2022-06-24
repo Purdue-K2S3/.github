@@ -87,12 +87,12 @@
        
     👰🏻Yeongseo Kim
        -Sangmyung University
-       -Major in Computer Science Engineering
+       -Major in Human Centered-Artificial Intelligence
        -201910787@sangmyung.kr
       
     👨🏻‍💻Juann Kim
        -Sangmyung University
-       -Major in Computer Science Engineering
+       -Major in Department of Software
        -201920951@sangmyung.kr
        
     👩‍🚀Heeyeon Shin
@@ -107,5 +107,5 @@
        
     👨🏻‍Luke Siemers
        -Purdue Univeristy
-       -Major in CNIT
+       -Major in Computer and Information Technology
        -lukesiemers33@gmail.com
