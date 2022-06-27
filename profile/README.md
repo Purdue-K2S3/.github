@@ -9,7 +9,7 @@
 </br>
 
 ## 📅 Project Period
-04-17-2021(SUN) ~ 08-05-2021(FRI)
+> 04-17-2021(SUN) ~ 08-05-2021(FRI)
 
 </br> 
 
@@ -96,7 +96,7 @@ In this point of view, **individual domains and multi-domain could be conducted*
        
 - 👩‍🚀 `Yeeun Heo`
   - Soongsil University
-  - Major in Computer Science Engineering
+  - Major in Software Engineering
   - gjdpdms2005@soongsil.ac.kr
        
  - 👨🏻‍ `Luke Siemers`
