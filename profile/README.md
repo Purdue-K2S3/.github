@@ -1,5 +1,5 @@
 # ⚡ Postition Estimation of Drone Project ⚡ 
-> Purdue - KSW 2022 Spring Program by K2S3 
+> Purdue University KSW 2022 Spring Program - Team K2S3
 
 </br>
 
