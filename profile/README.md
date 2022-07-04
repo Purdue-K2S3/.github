@@ -1,10 +1,9 @@
-# ⚡ Postition Estimation of Drone ⚡ 
-> Purdue University KSW 2022 Spring Program - Team K2S3
+# ⚡ Purdue University KSW 2022 Spring Program - Team K2S3 ⚡ 
 
 </br>
 
 ## 📑 Project Title
-#### The Postition Estimation of UAV Using Deep Learning Method with Vision and Audio
+### The Postition Estimation of UAV Using Deep Learning Method with Vision and Audio
 
 </br>
 
